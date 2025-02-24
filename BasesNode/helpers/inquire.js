@@ -1,0 +1,1 @@
+const options = await inquirer.createPromptModule().prompt([]);
